@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-3d-sample.vercel.app/](https://portfolio-3d-sample.vercel.app/)
-
 - 💬 Ask me about **React,Node,Express,Vite**
 
 - 📫 How to reach me **aadigupta2007@yahoo.com**
