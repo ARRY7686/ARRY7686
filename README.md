@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **aadigupta2007@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aadi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadi gupta" height="30" width="40" /></a>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arry7686&show_icons=true&locale=en" alt="arry7686" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arry7686&size_weight=0.5&count_weight=0.5" alt="arry7686" /></p>
 
