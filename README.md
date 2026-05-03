@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aadi Gupta</h1>
 <h3 align="center">A passionate fullstack developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arry7686&label=Profile%20views&color=0e75b6&style=flat" alt="arry7686" /> </p>
-
 
 - 🌱 I’m currently learning **React Native,Swift,Next.js,Java**
 
