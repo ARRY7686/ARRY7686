@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **aadigupta2007@yahoo.com**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arry7686&show_icons=true&locale=en" alt="arry7686" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arry7686&size_weight=0.5&count_weight=0.5" alt="arry7686" /></p>
 
 ![snake gif](https://github.com/ARRY7686/ARRY7686/blob/output/github-snake-dark.svg)
 
