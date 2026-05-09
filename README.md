@@ -10,7 +10,7 @@ Building AI systems, scalable web applications, developer tools, and real-time e
 
 ---
 
-- 🔭 Currently working as a **Machine Learning Engineer @ Datacurve.ai**
+- 🔭 Currently working as a **Machine Learning Engineer @ Shipd by Datacurve.ai**
 
 - 🌱 Currently learning **React Native, Swift, Next.js, Systems Design, and Advanced ML**
 
