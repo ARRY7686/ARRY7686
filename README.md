@@ -1,15 +1,31 @@
 <h1 align="center">Hi 👋, I'm Aadi Gupta</h1>
-<h3 align="center">A passionate fullstack developer </h3>
 
+<h3 align="center">
+Machine Learning Engineer • Fullstack Developer • Open Source Contributor
+</h3>
 
-- 🌱 I’m currently learning **React Native,Swift,Next.js,Java**
+<p align="center">
+Building AI systems, scalable web applications, developer tools, and real-time experiences.
+</p>
 
-- 👯 I’m looking to collaborate on **Open Source**
+---
 
-- 💬 Ask me about **React,Node,Express,Vite**
+- 🔭 Currently working as a **Machine Learning Engineer @ Datacurve.ai**
 
-- 📫 How to reach me **aadigupta2007@yahoo.com**
+- 🌱 Currently learning **React Native, Swift, Next.js, Systems Design, and Advanced ML**
 
+- 👯 Looking to collaborate on **Open Source, AI, and Fullstack Projects**
 
-![snake gif](https://github.com/ARRY7686/ARRY7686/blob/output/github-snake-dark.svg)
+- 💬 Ask me about **React, Node.js, Express, Vite, MERN, Python, and Machine Learning**
 
+- ⚡ Interests: **Computer Vision, Audio Processing, Developer Tooling, Real-Time Systems**
+
+- 🏆 **Kaggle Datasets Grandmaster & Notebook Expert**
+
+- 📫 Reach me at **aadigupta2007@yahoo.com**
+
+---
+
+<p align="center">
+  <img src="https://github.com/ARRY7686/ARRY7686/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</p>
