@@ -27,8 +27,6 @@ Building AI systems, scalable web applications, developer tools, and real-time e
 
 - ⚡ Interests: **Computer Vision, Audio Processing, Developer Tooling, Real-Time Systems**
 
-- 🏆 **Kaggle Datasets Grandmaster & Notebook Expert**
-
 - 📫 Reach me at **aadigupta2007@yahoo.com**
 
 ---
