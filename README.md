@@ -8,6 +8,13 @@ Machine Learning Engineer • Fullstack Developer • Open Source Contributor
 Building AI systems, scalable web applications, developer tools, and real-time experiences.
 </p>
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ARRY7686" height="165" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ARRY7686&langs_count=3&hide_values=true&theme=dark_github" height="165" />
+</div>
+
+
 ---
 
 - 🔭 Currently working as a **Machine Learning Engineer @ Shipd by Datacurve.ai**
