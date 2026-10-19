@@ -28,9 +28,3 @@ Building AI systems, scalable web applications, developer tools, and real-time e
 - ⚡ Interests: **Computer Vision, Audio Processing, Developer Tooling, Real-Time Systems**
 
 - 📫 Reach me at **aadigupta2007@yahoo.com**
-
----
-
-<p align="center">
-  <img src="https://github.com/ARRY7686/ARRY7686/blob/output/github-snake-dark.svg" alt="snake gif"/>
-</p>
